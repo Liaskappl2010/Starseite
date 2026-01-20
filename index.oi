@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schul-Startseite</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <img src="images/weihnachtsmann.jpg" alt="Weihnachtsmann">
+    <img src="images/schullogo.png" alt="Schullogo" class="logo">
+    <h1>Willkommen an unserer Schule</h1>
+</header>
+
+<main>
+    <section class="links">
+        <div><img src="images/classroom.png"> Google Classroom</div>
+        <div><img src="images/bycs.png"> ByCS</div>
+        <div><img src="images/eduplaces.png"> Eduplaces</div>
+        <div><img src="images/google-drive.png"> Google Drive</div>
+        <div><img src="images/canva.png"> Canva</div>
+    </section>
+
+    <section class="info">
+        <h2>Informationen</h2>
+        <h2>Speiseplan</h2>
+        <h2>Von Lehrkraft zu Schüler/in</h2>
+        <h2>Schulleitung</h2>
+        <h2>Vertretungspläne</h2>
+    </section>
+</main>
+
+</body>
+</html>
